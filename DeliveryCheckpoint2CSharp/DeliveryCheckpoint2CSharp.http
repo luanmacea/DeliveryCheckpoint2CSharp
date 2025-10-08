@@ -1,0 +1,6 @@
+@DeliveryCheckpoint2CSharpCSharp_HostAddress = http://localhost:5146
+
+GET {{DeliveryCheckpoint2CSharpCSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
