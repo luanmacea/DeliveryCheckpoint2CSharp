@@ -1,4 +1,9 @@
-﻿```markdown
+﻿Integrantes:
+
+Luan Silveira Macea - RM98290
+Rui Amorim - rm98436
+
+```markdown
 # DeliveryCheckpoint2CSharp
 
 Sistema de Delivery/Restaurante — Projeto ASP.NET Core Web API com Oracle
